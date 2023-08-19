@@ -23,7 +23,7 @@ const page: FC<pageProps> = ({params}) => {
   return (
     <div>
       page
-      <h1>bum</h1>
+      <h1>test</h1>
     </div>
   )
 }
